@@ -1,4 +1,4 @@
 numpy
 PIL
-opencv-python-headless
+opencv-contrib-python
 imutils
